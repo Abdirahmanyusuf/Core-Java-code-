@@ -1,0 +1,54 @@
+public class Main {
+
+    public static void main(String[] args) {
+        String[] Eastafrica = {"Somalia", "kenya" ,"Uganda" ,"Djabuti" ,"Sudan", "South Sudan", "Tanzania"};
+        System.out.println(Eastafrica[0]);
+    }
+}
+
+
+
+accessing array through indexing 
+
+
+public class Main {
+
+    public static void main(String[] args) {
+        String[] Eastafrica = {"Somalia", "kenya" ,"Uganda" ,"Djabuti" ,"Sudan", "South Sudan", "Tanzania"};
+        System.out.println(Eastafrica[4]);
+    }
+}
+
+
+changing value in array
+
+public class Main {
+
+    public static void main(String[] args) {
+        String[] Eastafrica = {"Somalia", "kenya" ,"Uganda"};
+        Eastafrica[1] = "Laasanod";
+        System.out.println(Eastafrica[1]);
+    }
+}
+
+
+array lenth 
+
+
+public class Main {
+
+    public static void main(String[] args) {
+        String[] Eastafrica = {"Somalia", "kenya" ,"Uganda","Djabuti","Ethiopia","South africa","Yamen","Iraq"};
+        System.out.println(Eastafrica.length);
+    }
+}
+
+
+
+Assigment 1
+ make array for schools in sool 
+ make Multidimensional Arrays for secondary school and intermediate schoool
+
+
+
+
