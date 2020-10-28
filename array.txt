@@ -52,3 +52,21 @@ Assigment 1
 
 
 
+public class Main {
+    static void myMethod() {
+        System.out.println("Tani waa My first Method ");
+    }
+    public static void main(String[] args) {
+      myMethod();
+      myMethod();
+      myMethod();
+      myMethod();
+    }
+}
+
+
+Assignment  Two 
+
+make one method 
+
+
